@@ -12,8 +12,8 @@ Both use multi-source geospatial and environmental data.
 ## 📦 Setup
 
 ```bash
-git clone <repo-url>
-cd <repo-directory>
+git clone https://github.com/MohamedHridou/EY_2025_Team_HaraWeCan_Model_Inference.git
+cd EY_2025_Team_HaraWeCan_Model_Inference
 
 conda create -n ey_france_2025 python=3.11 -y
 conda activate ey_france_2025
